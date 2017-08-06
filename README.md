@@ -1,4 +1,4 @@
-# Material Fade Tools
+# Blender Palette Manager Addon
 Blender plug-in for applying a palette of shadeless colors to objects easily
 
 ![The addon creates new materials and adds them to selected objects with colors specified in a palette by the user.](http://bastianilso.com/wp-content/uploads/2017/08/Screenshot-from-2017-08-06-22-47-15.png)
